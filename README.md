@@ -10,7 +10,7 @@ Type this command:👇👇
 7) pip2 install requests
 8) pip install mechanize
 9) git clone https://github.com/sumonta065/SumonAsha.py.git
-10) cd SumonAsha
+10) cd SumonAsha.py
 11) python2 SumonAsha.py
 
 _______________💀_____________💀____________💀___________
