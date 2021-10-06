@@ -13,10 +13,10 @@ Type this command:👇👇
 10) cd SumonAsha
 11) python2 SumonAsha.py
 
+_______________💀_____________💀____________💀___________
 
-
-And please donate me here👇🙏👇;
-Bitcoin Wallet Address; 38VyEjA2beTm8y3f3B9YXFKFrGJvyTwqwM
+💀😢And please donate me here👇🙏👇;
+💰Bitcoin Wallet Address; 38VyEjA2beTm8y3f3B9YXFKFrGJvyTwqwM
 
 
 Thank you, have a good day!
